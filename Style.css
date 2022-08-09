@@ -1,0 +1,102 @@
+body{
+  background-image: url("background.jpg");
+  padding: 25px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Box_Centrale{
+  width: 1300px;
+  border: 0px;
+  padding-top: 50px;
+  padding-right: auto;
+  padding-bottom: 50px;
+  padding-left: auto;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-bottom: 450px;
+  margin-left: auto;
+  background-color:  rgba(0,0,0,.5);
+  color: #fff;
+  border-radius: 25px;
+}
+
+.logo{
+  width: 200px;
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.logo_text{
+  font-size: 25px;
+  display: block;
+  margin: 10px;
+  text-align: center;
+  font-family: Arial;
+  color: limegreen;
+}
+
+.boxbutton{
+  background-color: limegreen;
+  padding: 10px;
+  border: 0px;
+  margin-left: 100px;
+  margin-top: 0px;
+  margin-right: 100px;
+  margin-bottom: 10px;
+}
+
+.bottone1{
+  text-align: center;
+  margin-left: 380px;
+}
+
+.bottone2{
+  text-align: center;
+  margin-left: 2px;
+}
+
+.bottone3{
+  text-align: center;
+  margin-left: 2px;
+}
+
+.Monopattino1{
+  margin-left: 100px;
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.Monopattino2{
+  margin-left: 100px;
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.Monopattino3{
+  margin-left: 100px;
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.statocarica1{
+  width: 300px;
+  padding: 10px;
+  background-color: orange;
+  border-radius: 5px;
+}
+
+.statocarica2{
+  width: 500px;
+  padding: 10px;
+  background-color: limegreen;
+  border-radius: 5px;
+}
+
+.statocarica3{
+  width: 150px;
+  padding: 10px;
+  background-color: red;
+  border-radius: 5px;
+}
